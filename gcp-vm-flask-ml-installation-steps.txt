@@ -1,0 +1,15 @@
+
+
+sudo apt install python3-pip
+
+pip3 install Flask
+
+pip3 install numpy
+
+pip3 install sklearn
+
+sudo apt install wget
+
+wget https://github.com/futurexskill/ml-model-deployment/raw/main/sc.pickle
+
+wget https://github.com/futurexskill/ml-model-deployment/raw/main/classifier.pickle
