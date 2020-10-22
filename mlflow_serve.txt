@@ -1,0 +1,1 @@
+mlflow models serve -m C:\Users\engin\ml\mlruns\1\71a82d33a9ae4d5a834c42d56ce61163\artifacts\model -p 5000
