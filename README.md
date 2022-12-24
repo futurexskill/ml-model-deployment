@@ -13,3 +13,8 @@ Course Structure:
 7. Deploying TensorFlow and Keras models using TensorFlow Serving
 8. Deploying PyTorch Models
 9. Creating REST API for Pytorch Models
+
+Model Deployment course on Udemy
+
+
+https://www.udemy.com/course/machine-learning-deep-learning-model-deployment/?referralCode=E1443BEB8990D90B8A22
