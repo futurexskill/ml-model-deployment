@@ -1,4 +1,7 @@
-Watch the Course on Skillshare  at https://skl.sh/34Wt5E3
+Model Deployment course on Udemy
+
+
+https://www.udemy.com/course/machine-learning-deep-learning-model-deployment/?referralCode=E1443BEB8990D90B8A22
 
 In this course you will learn how to deploy Machine Learning Models using various techniques. You should have basic understanding of Python and Machine Learning before starting on this course. 
 
@@ -14,7 +17,4 @@ Course Structure:
 8. Deploying PyTorch Models
 9. Creating REST API for Pytorch Models
 
-Model Deployment course on Udemy
 
-
-https://www.udemy.com/course/machine-learning-deep-learning-model-deployment/?referralCode=E1443BEB8990D90B8A22
